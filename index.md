@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+My name is Myo Thet and I am a Software Engineer at SolidCAD Tehcnologies Pte Ltd.
