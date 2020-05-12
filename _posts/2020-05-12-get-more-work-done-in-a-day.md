@@ -1,5 +1,7 @@
-
-How to Get More Work Done in a Day
+---
+title: "How to Get More Work Done in a Day"
+date: 2020-05-11
+---
 
 #### Timing is everything if you are really serious about getting more done every day**
 > “Generally, people are most productive in the morning.   
