@@ -3,7 +3,7 @@ title: "How to Get More Work Done in a Day"
 date: 2020-05-11
 ---
 
-#### Timing is everything if you are really serious about getting more done every day**
+#### Timing is everything if you are really serious about getting more done every day
 > “Generally, people are most productive in the morning.   
 > The two hours after becoming fully awake are likely to be the best.”
 
@@ -23,7 +23,8 @@ date: 2020-05-11
 > Build a routine that tells your brain and body it’s time to work.
 
 #### Break up your work hours and take breaks
-> longer sessions of productive work, followed by short breaks of 15 minutes or so, sync with our own natural cycles.
+> longer sessions of productive work, followed by short breaks of 15 minutes or so,   
+> sync with our own natural cycles.
 
 #### Create a forced deadline
 > having a limited amount of time actually does increase the speed of your work.   
