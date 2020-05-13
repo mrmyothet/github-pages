@@ -2,12 +2,12 @@
 title: "10 Arguments for Deleting Your Social Media Accounts Right Now"
 date: 2020-05-13
 ---
-by [Jaron Lanier](http://www.jaronlanier.com/)
+**by [Jaron Lanier](http://www.jaronlanier.com/)**
 
 I did not read the book yet. 
 
 * [TED Talk - How we need to remake the internet](https://www.ted.com/talks/jaron_lanier_how_we_need_to_remake_the_internet) 
-* [YouTube - 10 Reasons to Get Off Social Media - Jaron Lanier](https://www.youtube.com/watch?v=BCTlcj5vImk)
+* [YouTube - 10 Reasons to Get Off Social Media](https://www.youtube.com/watch?v=BCTlcj5vImk)
 * [Podcast - Should you quit social media?](https://www.vox.com/2018/7/27/17618756/jaron-lanier-deleting-social-media-book-kara-swisher-too-embarrassed-podcast)
 
 [The full list of arguments is below...](https://blog.idrsolutions.com/2019/06/book-review-10-arguments-for-deleting-your-social-media-accounts-right-now/)
