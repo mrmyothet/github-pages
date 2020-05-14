@@ -2,13 +2,12 @@ theme: minima
 title: GitHub Pages
 author: Myo Thet
 email: mr.myothet@gmail.com
-description: > Genius is one percent inspiration and ninety-nine percent perspiration.  
-**Thomas Edison**
-
-* inspiration - brilliant idea  
-* perspiration - the process of sweating  
-
-> Great accomplishments depend not so much on ingenuity as on hard work.
+description: "Great accomplishments depend not so much on ingenuity as on hard work."
+# "Genius is 1% inspiration and 99% perspiration."
+# **Thomas Edison**
+# * inspiration - brilliant idea  
+# * perspiration - the process of sweating  
+# Great accomplishments depend not so much on ingenuity as on hard work.
 
 # social links
 twitter_username: mrmyothet
