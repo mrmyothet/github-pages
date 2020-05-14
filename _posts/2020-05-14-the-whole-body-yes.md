@@ -11,4 +11,4 @@ Ask yourself or Pay attention to three things
 > YES, YES, YES - the whole body YES then you should do it.   
 > If not, then NO.   
 
-Reference: [YouTube - When to Trust Your Intuition: Frameworks and Tools | Tim Ferriss](https://www.youtube.com/watch?v=haRYTcTEhiE)
+Reference: [YouTube - When to Trust Your Intuition: Frameworks and Tools - Tim Ferriss](https://www.youtube.com/watch?v=haRYTcTEhiE)
