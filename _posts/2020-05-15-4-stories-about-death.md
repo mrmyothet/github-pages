@@ -30,4 +30,4 @@ live on through the echo you leave in the world.
 > we do not live to experience death.   
 > **Ludwing Wittgenstein**
 
-[TED Talk - The 4 stories we tell ourselves about death | Stephen Cave](https://www.ted.com/talks/stephen_cave_the_4_stories_we_tell_ourselves_about_death)
+[TED Talk - The 4 stories we tell ourselves about death by Stephen Cave](https://www.ted.com/talks/stephen_cave_the_4_stories_we_tell_ourselves_about_death)
