@@ -1,5 +1,5 @@
 ---
-title: "The 4 stories we tell ourselves about death"
+title: "4 stories we tell ourselves about death"
 date: 2020-05-15
 ---
 
