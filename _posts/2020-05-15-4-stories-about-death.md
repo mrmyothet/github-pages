@@ -1,4 +1,7 @@
-[TED Talk - The 4 stories we tell ourselves about death | Stephen Cave](https://www.ted.com/talks/stephen_cave_the_4_stories_we_tell_ourselves_about_death)
+---
+title: [TED Talk - The 4 stories we tell ourselves about death | Stephen Cave](https://www.ted.com/talks/stephen_cave_the_4_stories_we_tell_ourselves_about_death)
+date: 2020-05-15
+---
 
 Confront someone with the fact that they are going to die and they will beleive just about any story that tells them it isn't true and they can instead live forever. 
 
