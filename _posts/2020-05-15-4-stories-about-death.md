@@ -1,9 +1,10 @@
 ---
-title: "[TED Talk - The 4 stories we tell ourselves about death | Stephen Cave](https://www.ted.com/talks/stephen_cave_the_4_stories_we_tell_ourselves_about_death)"
+title: "The 4 stories we tell ourselves about death"
 date: 2020-05-15
 ---
 
-Confront someone with the fact that they are going to die and they will beleive just about any story that tells them it isn't true and they can instead live forever. 
+Confront someone with the fact that they are going to die and   
+they will beleive just about any story that tells them it isn't true and they can instead live forever.   
 
 reminding people of death biases them to believe, regardless of the evidence
 
@@ -28,3 +29,5 @@ live on through the echo you leave in the world.
 > Death is not an event in life.   
 > we do not live to experience death.   
 > **Ludwing Wittgenstein**
+
+[TED Talk - The 4 stories we tell ourselves about death | Stephen Cave](https://www.ted.com/talks/stephen_cave_the_4_stories_we_tell_ourselves_about_death)
