@@ -1,8 +1,8 @@
 theme: minima
-title: GitHub Pages
+title: MyoThet's Notes
 author: Myo Thet
 email: mr.myothet@gmail.com
-description: "Great accomplishments depend not so much on ingenuity as on hard work."
+description: "Genius is 1% inspiration and 99% perspiration.    **Thomas Edison**    Great accomplishments depend not so much on ingenuity as on hard work."
 # "Genius is 1% inspiration and 99% perspiration."
 # **Thomas Edison**
 # * inspiration - brilliant idea  
@@ -12,6 +12,7 @@ description: "Great accomplishments depend not so much on ingenuity as on hard w
 # social links
 twitter_username: mrmyothet
 github_username:  mrmyothet
+facebook_username: mr.myothet
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 
