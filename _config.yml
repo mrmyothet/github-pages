@@ -1,13 +1,8 @@
 theme: minima
-title: MyoThet's Notes
+title: MyoThet Notes
 author: Myo Thet
 email: mr.myothet@gmail.com
-description: "Genius is 1% inspiration and 99% perspiration.    **Thomas Edison**    Great accomplishments depend not so much on ingenuity as on hard work."
-# "Genius is 1% inspiration and 99% perspiration."
-# **Thomas Edison**
-# * inspiration - brilliant idea  
-# * perspiration - the process of sweating  
-# Great accomplishments depend not so much on ingenuity as on hard work.
+description: "Genius is 1% inspiration and 99% perspiration. **Thomas Edison**"
 
 # social links
 twitter_username: mrmyothet
