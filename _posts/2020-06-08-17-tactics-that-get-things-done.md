@@ -91,9 +91,9 @@ One best practice is to send out an email with an action list and include the me
 - Enunciation
 - Silence
 
-A good tone of voice is one that has a good level of energy to it and reflects confidence: 
-the quality is clear, the volume is moderate, and the pitch has a nice vocal range to it.
-Go slow and be forceful with each letter and number.
+A good tone of voice is one that has a good level of energy to it and reflects confidence:   
+the quality is clear, the volume is moderate, and the pitch has a nice vocal range to it.   
+Go slow and be forceful with each letter and number.   
 Silence is about injecting intentional pauses in your discussion.
 
 #### 17. Make Your Emails Stand Out Using The Subject Line
