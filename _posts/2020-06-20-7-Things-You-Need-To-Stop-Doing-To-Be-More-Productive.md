@@ -1,3 +1,8 @@
+---
+title: "7 Things You Need To Stop Doing To Be More Productive"
+date: 2020-06-20
+---
+
 1. Stop working overtime and increase your productivity instead.
 
 2. Stop saying “yes” too often.

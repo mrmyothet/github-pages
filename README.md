@@ -1,1 +1,1 @@
-[My Notes on surfing online...](https://mrmyothet.github.io/notes/)
+[Notes on surfing online . . .](https://mrmyothet.github.io/notes/)
